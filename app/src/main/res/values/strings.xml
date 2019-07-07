@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Retro News</string>
+    <string name="top_headline">Top Headline</string>
+    <string name="this_is_the_item_image">This is the item image</string>
+    <string name="author">Author</string>
+    <string name="default_date_label">01 January 1970</string>
+    <string name="title">Title</string>
+    <string name="desc">Desc</string>
+    <string name="description">Caption</string>
+    <string name="news_source">News Source</string>
+    <string name="news_time">00:00:00</string>
+    <string name="calendar_logo">calendar logo</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+</resources>
